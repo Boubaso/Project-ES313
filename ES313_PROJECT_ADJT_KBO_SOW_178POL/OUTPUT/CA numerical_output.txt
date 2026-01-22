@@ -1,0 +1,14 @@
+========== SIMULATION SUMMARY ==========
+Outcome: NO FIRE
+Final iteration: 152
+Final time: 15.1 s
+Max temperature end: 402.72 K
+Avg temperature end: 303.44 K
+Grid size: (201, 201)
+Spatial step: 0.001 m
+Time step: 0.1 s
+Diffusion number β: 0.0222
+Initial condition: line
+Geometry: plane
+Simulation time: 253.32 s
+========================================

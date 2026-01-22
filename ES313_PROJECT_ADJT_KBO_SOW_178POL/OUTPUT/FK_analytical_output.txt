@@ -1,0 +1,14 @@
+Frank-Kamenetskii Analysis Results
+================================================
+
+Material: RDX
+Hot-spot radius L = 1.0 mm
+
+Critical temperature Tc plane = 745.6 K
+Critical temperature Tc cylinder = 749.0 K
+
+Testing ignition at T = 782.9 K (plane)
+Testing ignition at T = 786.4 K (cylinder)
+
+Ignition time at 1.05 Tc (plane) ≈ 2.93 s
+Ignition time at 1.05 Tc (cylinder) ≈ 2.27 s

@@ -3,7 +3,7 @@
 # Frank–Kamenetskii Thermal Ignition Model 
 
 This repository contains a **numerical implementation of a 2-D reaction–diffusion model for thermal ignition**, inspired by **Frank–Kamenetskii (FK) theory**.
-The project investigates **thermal runaway, critical temperature, and ignition time** using a cellular-automaton–style explicit time integration in Julia.
+The project investigates **thermal runaway/stability, critical temperature, and ignition time** using a cellular-automaton–style explicit time integration in Julia.
 
 The detail description, calculations, sources and background info are given in the Notion Website: 
 

@@ -41,10 +41,11 @@ Adjust parameters such as grid size, time step, and initial hotspot temperature 
 ---
 
 
-## ✍️ With kind regards
+#### ✍️ With kind regards
 
-[Sow Boubacar]
-[Royal Military Academy / ES313]
+Sow Boubacar, 178 polytechnics
+
+Royal Military Academy / ES313
 
 ---
 

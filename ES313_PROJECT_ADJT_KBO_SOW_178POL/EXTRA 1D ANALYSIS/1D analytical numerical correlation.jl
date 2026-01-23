@@ -131,7 +131,7 @@
     df = n - 1
     p_value = 2 * (1 - cdf(TDist(df), abs(t_stat)))
 
-    open("ES313_PROJECT_ADJT_KBO_SOW_178POL\\Extra/1D analytical numerical comparison.txt", "w") do io
+    open("ES313_PROJECT_ADJT_KBO_SOW_178POL\\EXTRA 1D ANALYSIS/1D analytical numerical comparison.txt", "w") do io
         println(io, "="^60)
         println(io, "STATISTICAL ANALYSIS")
         println(io, "="^60)
@@ -153,4 +153,5 @@
         println(io, "="^60)
     end
 
-    savefig("ES313_PROJECT_ADJT_KBO_SOW_178POL\\Extra/1D analytical numerical comparison.png")
+    savefig("ES313_PROJECT_ADJT_KBO_SOW_178POL\\EXTRA 1D ANALYSIS/1D analytical numerical comparison.png")
+

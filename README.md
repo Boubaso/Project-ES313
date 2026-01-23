@@ -9,6 +9,11 @@ The detail description, calculations, sources and background info are given in t
 
 https://prairie-aries-a8b.notion.site/ES313-Project-2025-b00002e455564949bd950bd71b22c402?source=copy_link 
 
+How to run,
+- All .jl files are made to run in VScode, using the terminal
+- Add the contents of the file preferably to the ES313-main setup
+- Code made and tested on v1.12.3
+
 
 ---
 
